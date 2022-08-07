@@ -108,6 +108,7 @@ people who've had it work).
 | [NEC PC-98](doc/disk-ibm.md)              |  🦄   |   🦄   | trimode drive not required          |
 | [Sharp X68000](doc/disk-ibm.md)           |  🦄   |   🦄   |                                     |
 | [TRS-80](doc/disk-trs80.md)               |  🦖   |   🦖*  | a minor variation of the IBM scheme |
+| [I.C.E. Felix HC](doc/disk-hc.md)         |  🦄   |   🦄   | Romanian ZX Spectrum clone          |
 {: .datatable }
 
 `*`: these formats are variations of the generic IBM format, and since the
