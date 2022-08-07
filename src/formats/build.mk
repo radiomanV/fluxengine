@@ -25,6 +25,10 @@ FORMATS = \
 	eco1 \
 	f85 \
 	fb100 \
+	felix320 \
+	felix360 \
+	felix640 \
+	felix720 \
 	hp9121 \
 	hplif770 \
 	ibm1200 \
