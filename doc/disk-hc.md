@@ -14,7 +14,7 @@ More info about these computers can be [found here.](https://sites.google.com/si
 
 This used a variation of double-sided IBM scheme format with 16 sectors/256    
 bytes for the BASIC disk and 9 sectors/512 bytes for the CP/M disk.   
-Either 5.25" or 3.5" drives were used depending on what was available at the time,
+Either 5.25" or 3.5" drives were used depending on what was available at the time,   
 with the same format on both. The first models were equiped with a 5.25"/40 tracks
 drive then a 3.5"/80 tracks drive was used.    
 So we have 320Kb/640Kb disks for the BASIC format and 360Kb/720Kb disks for the CP/M format.   
